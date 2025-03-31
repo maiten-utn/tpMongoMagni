@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Python
+venv/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales de sistema
+*.log
