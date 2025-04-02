@@ -46,5 +46,5 @@ Este es un proyecto que contiene código tanto en TypeScript como en Python.
 4. Luego, ejecuta el siguiente comando para ejecutar el código Python:
 
 ```bash
-  python archivos.py
+  python main.py
 ```
