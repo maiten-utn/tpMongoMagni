@@ -48,3 +48,17 @@ Este es un proyecto que contiene código tanto en TypeScript como en Python.
 ```bash
   python main.py
 ```
+
+## Parte 2
+
+1. Ve a la carpeta `Parte2` y ejecuta:
+
+```bash
+  npm install
+```
+
+2. Luego, ejecuta el siguiente comando para compilar y ejecutar el código TypeScript:
+
+```bash
+ npm start
+```
